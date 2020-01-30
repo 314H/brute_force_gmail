@@ -1,2 +1,2 @@
 # brute_force_gmail
-Estudando segurança da informação
+Simples script de bruteforce para contas gmail.
